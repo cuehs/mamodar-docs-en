@@ -4,7 +4,7 @@ Installation
 
 The DataLinker can be installed on Linux, Windows and macOS. 
 
-The code is mainly written in Java and Angular.
+The code is written in Java and Angular.
 
 An installation of the DataLinker contains of three parts:
 
